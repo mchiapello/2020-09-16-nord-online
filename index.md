@@ -340,6 +340,17 @@ please preview your site before committing, and make sure to run
 {% endif %}
 
 <hr/>
+COOPERATION
+
+1. [Shared google doc](https://docs.google.com/document/d/141_L0avZJXnDVidF8NfI8w8WKVqjSToHRXuimqKCa-s/edit?usp=sharing)
+
+1. [First day survey](https://forms.gle/cMg3WjBqhYjHLbDr7)
+
+1. [Second day survey](https://forms.gle/mmy4UCqEnFcmPPENA)
+
+1. [Thrid day survey](https://forms.gle/VN99jkgQzaN9Twyu8)
+
+<hr/>
 
 {% comment %}
 SETUP
